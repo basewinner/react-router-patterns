@@ -10,22 +10,6 @@ import duke from "./pictures/duke.jpg";
 import perry from "./pictures/perry.jpg";
 
 
-{/* <div className="container">
-<div className="App">
-  <BrowserRouter>
-    <NavBar />
-    <Route exact path="/drink">
-      <Drink />
-    </Route>
-    <Route exact path="/eat">
-      <Eat />
-    </Route>
-    <Route exact path="/">
-      <Home />
-    </Route>
-  </BrowserRouter>
-</div>
-</div> */}
 
 function App({dogs}) {
   return (
