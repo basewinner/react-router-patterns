@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dog-app/static/css/main.6326b465.chunk.css",
+    "main.js": "/dog-app/static/js/main.aa27c072.chunk.js",
+    "main.js.map": "/dog-app/static/js/main.aa27c072.chunk.js.map",
+    "runtime-main.js": "/dog-app/static/js/runtime-main.043017e1.js",
+    "runtime-main.js.map": "/dog-app/static/js/runtime-main.043017e1.js.map",
+    "static/js/2.a4c142a2.chunk.js": "/dog-app/static/js/2.a4c142a2.chunk.js",
+    "static/js/2.a4c142a2.chunk.js.map": "/dog-app/static/js/2.a4c142a2.chunk.js.map",
+    "static/js/3.f052428b.chunk.js": "/dog-app/static/js/3.f052428b.chunk.js",
+    "static/js/3.f052428b.chunk.js.map": "/dog-app/static/js/3.f052428b.chunk.js.map",
+    "index.html": "/dog-app/index.html",
+    "static/css/main.6326b465.chunk.css.map": "/dog-app/static/css/main.6326b465.chunk.css.map",
+    "static/js/2.a4c142a2.chunk.js.LICENSE.txt": "/dog-app/static/js/2.a4c142a2.chunk.js.LICENSE.txt",
+    "static/media/duke.a2a605e8.jpg": "/dog-app/static/media/duke.a2a605e8.jpg",
+    "static/media/perry.26aa7595.jpg": "/dog-app/static/media/perry.26aa7595.jpg",
+    "static/media/tubby.9c06bf82.jpg": "/dog-app/static/media/tubby.9c06bf82.jpg",
+    "static/media/whiskey.7650f3f2.jpg": "/dog-app/static/media/whiskey.7650f3f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043017e1.js",
+    "static/js/2.a4c142a2.chunk.js",
+    "static/css/main.6326b465.chunk.css",
+    "static/js/main.aa27c072.chunk.js"
+  ]
+}
