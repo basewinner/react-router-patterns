@@ -1,0 +1,16 @@
+.DogList img {
+  width: 45%;
+  border-radius: 10%;
+  border: 4px solid slateblue;
+  box-shadow: 0 0 10px #9e9e9e;
+}
+
+.text-center {
+  color: black;
+  text-align: center;
+}
+
+.list-center {
+  color: rebeccapurple;
+  text-align: center;
+}
